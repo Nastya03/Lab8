@@ -1,0 +1,12 @@
+C:\Users\1710529\Downloads\Lab_8-master\oblast`form\bin\Debug\oblast`form.exe.config
+C:\Users\1710529\Downloads\Lab_8-master\oblast`form\bin\Debug\oblast`form.exe
+C:\Users\1710529\Downloads\Lab_8-master\oblast`form\bin\Debug\oblast`form.pdb
+C:\Users\1710529\Downloads\Lab_8-master\oblast`form\bin\Debug\Lab8Lib.dll
+C:\Users\1710529\Downloads\Lab_8-master\oblast`form\bin\Debug\Lab8Lib.pdb
+C:\Users\1710529\Downloads\Lab_8-master\oblast`form\obj\Debug\oblast`form.csprojResolveAssemblyReference.cache
+C:\Users\1710529\Downloads\Lab_8-master\oblast`form\obj\Debug\oblast_form.FArea.resources
+C:\Users\1710529\Downloads\Lab_8-master\oblast`form\obj\Debug\oblast_form.fMain.resources
+C:\Users\1710529\Downloads\Lab_8-master\oblast`form\obj\Debug\oblast_form.Properties.Resources.resources
+C:\Users\1710529\Downloads\Lab_8-master\oblast`form\obj\Debug\oblast`form.csproj.GenerateResource.Cache
+C:\Users\1710529\Downloads\Lab_8-master\oblast`form\obj\Debug\oblast`form.exe
+C:\Users\1710529\Downloads\Lab_8-master\oblast`form\obj\Debug\oblast`form.pdb
